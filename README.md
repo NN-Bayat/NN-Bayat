@@ -4,6 +4,13 @@
   Welcome to my GitHub profile! I'm a passionate developer, always exploring new technologies and creating cool projects. 🚀
 </p>
 
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NN-Bayat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=NN-Bayat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NN-Bayat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 ---
 
 ### Tech Stack 💻
@@ -48,11 +55,6 @@ Feel free to reach out to me on any of the following platforms. I'd love to conn
 </div>
 
 ---
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NN-Bayat/NN-Bayat/output/github-contribution-grid-snake.svg
+" />
 
-### Fun Fact 🎉
-
-When I'm not coding, I enjoy diving into creative projects using tools like Adobe Photoshop and After Effects, or sketching out ideas in Figma. 🎨 I love merging design and functionality to build visually appealing, user-friendly experiences.
-
----
-
-Thanks for visiting! Feel free to explore my repositories and let me know if you'd like to collaborate. 🙌
