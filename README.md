@@ -1,9 +1,11 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">😊 Wellcome To My Github 😊</h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a passionate developer, always exploring new technologies and creating cool projects. 🚀
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there%2C+It+Is+Noorullah;Available+for+hiring;Junior+developer+from+Afghanistan;Available+for+hiring;Focusing+on+JavaScript+and+React" />
 </p>
 
+---
+<br><br>
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
   <!-- First Column (Stats) -->
     <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NN-Bayat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
