@@ -37,5 +37,7 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo" />
+    <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo" />\__________________________________________________________________________________________________________/
+    <br><br>
+    <img width="90%" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Description">
 </div>
