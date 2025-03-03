@@ -6,15 +6,14 @@
 
 ---
 <br><br>
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
   <!-- First Column (Stats) -->
-    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NN-Bayat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=NN-Bayat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br>
-    <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NN-Bayat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NN-Bayat&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br><br>
+    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=NN-Bayat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br><br>
 
 
   <!-- Second Column (Icons) -->
-  <div>
+  <div align="center">
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
     <img width="12" />
     <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" />
@@ -25,7 +24,7 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" /><br>
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
     <img width="12" />
@@ -38,19 +37,3 @@
     <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo" />
   </div>
 </div>
-
-  
----
-
-### Connect with me 📱
-
-Feel free to reach out to me on any of the following platforms. I'd love to connect with like-minded individuals and collaborate on exciting projects!
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-
