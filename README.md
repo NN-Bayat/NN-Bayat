@@ -4,7 +4,7 @@
 
 ---
 
-<br><br>
+<br>
 <p style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
   <img align="right" width="40%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Description">
   <div align="left">
@@ -15,7 +15,6 @@
 
 ---
 
-<br><br>
 <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
     <img width="12" />
@@ -37,7 +36,7 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo" />\__________________________________________________________________________________________________________/
-    <br><br>
-    <img width="90%" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Description">
+    <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo" />
+    <br>
+    <img width="120%" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Description">
 </div>
