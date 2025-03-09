@@ -12,12 +12,12 @@
  <h1>My Top Projects</h1> 
 
 ## 📈 Progress Projects  
-- [**BrainWave**](https://nn-bayat.github.io/BrainWave__2-26-25)  
+- [**Coders-GYM**](https://github.com/NN-Bayat/Coders-Gym_3-8-25)  
 
 
 ## ⚛️💨 React & Tailwind Projects  
-- [Project Name](URL)  
-- [Project Name](URL)  
+- [BrainWave](https://github.com/NN-Bayat/BrainWave__2-26-25)  
+- [React-Porfolio](https://github.com/NN-Bayat/React-Porfolio__2-24-25)  
 
 ## 🎨 HTML, CSS & JS Projects  
 - [Project Name](URL)  
