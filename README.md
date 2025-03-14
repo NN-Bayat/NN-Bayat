@@ -44,8 +44,8 @@
 
 
 ## ⚛️💨 React & Tailwind Projects  
-- [**BrainWave**_____](https://github.com/NN-Bayat/BrainWave__2-26-25)[______**Live Demo**](nn-bayat.github.io/BrainWave__2-26-25)
-- [**React-Porfolio**_____](https://github.com/NN-Bayat/React-Porfolio__2-24-25)[__**Live Demo**](nn-bayat.github.io/React-Porfolio__2-24-25)
+- [**BrainWave**](https://github.com/NN-Bayat/BrainWave__2-26-25)
+- [**React-Porfolio**](https://github.com/NN-Bayat/React-Porfolio__2-24-25)
 
 ## 🎨 HTML, CSS & JS Projects  
 - [Project Name](URL)  
