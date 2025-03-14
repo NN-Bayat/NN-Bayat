@@ -2,34 +2,12 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there%2C+It+Is+Noorullah;Available+for+hiring;Focusing+on+JavaScript+and+React" />
-</p>
-
----
-
-<p style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-  <div align="left"">
-    
- <h1>My Top Projects</h1> 
-
-## 📈 Progress Projects  
-- [**Coders-GYM**](https://github.com/NN-Bayat/Coders-Gym_3-8-25)  
-
-
-## ⚛️💨 React & Tailwind Projects  
-- [BrainWave](https://github.com/NN-Bayat/BrainWave__2-26-25)  
-- [React-Porfolio](https://github.com/NN-Bayat/React-Porfolio__2-24-25)  
-
-## 🎨 HTML, CSS & JS Projects  
-- [Project Name](URL)  
-- [Project Name](URL)  
-
- <div>
- <br>
-
----
-
-  <!-- Right Div -->
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+</p><br>
+<p align="center">
+  Hi, I’m Noorullah, a junior front-end developer passionate about clean and smart coding. Outside of work,<br>
+  I enjoy hitting the gym and spending time with friends. Working towards becoming a senior developer.💻
+  <br><br>
+  <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
     <img width="12" />
     <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" />
@@ -52,6 +30,32 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo" />
 </div>
+</p><br>
+
+---
+
+<p style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+  <div align="left"">
+    
+ <h1>My Top Projects</h1> 
+
+## 📈 Progress Projects  
+- [**Zentry**](https://github.com/NN-Bayat/Zentry__3-3-25)  
+
+
+## ⚛️💨 React & Tailwind Projects  
+- [**BrainWave**_____](https://github.com/NN-Bayat/BrainWave__2-26-25)[______**Live Demo**](nn-bayat.github.io/BrainWave__2-26-25)
+- [**React-Porfolio**_____](https://github.com/NN-Bayat/React-Porfolio__2-24-25)[__**Live Demo**](nn-bayat.github.io/React-Porfolio__2-24-25)
+
+## 🎨 HTML, CSS & JS Projects  
+- [Project Name](URL)  
+- [Project Name](URL)  
+
+ <div>
+ <br>
+
+---
+
 </p>
 
   <div align="center">
