@@ -29,6 +29,11 @@
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/greensock/88CE02" height="40" alt="gsap logo" />
+    <img width="12" />
 </div>
 </p><br>
 
