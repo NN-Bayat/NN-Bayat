@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there%2C+It+Is+Noorullah;Available+for+hiring;Focusing+on+JavaScript+and+React" />
 </p><br>
 <p align="center">
-  Hi, I’m Noorullah, a junior front-end developer passionate about clean and smart coding. Outside of work,<br>
+  Hi, I’m Noorullah, a junior front-end developer passionate about clean and smart coding.<br> Outside of work,
   I enjoy hitting the gym and spending time with friends. Working towards becoming a senior developer.💻
   <br><br>
   <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
