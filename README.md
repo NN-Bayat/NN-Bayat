@@ -5,7 +5,7 @@
 </p><br>
 <p align="center">
   Hi, I’m Noorullah, a junior front-end developer passionate about clean and smart coding.<br> Outside of work,
-  I enjoy hitting the gym and spending time with friends. Working towards becoming a senior developer.💻
+  I enjoy hitting the gym and spending time with friends. Working towards becoming a Full Stack Developer.💻
   <br><br>
   <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
@@ -45,16 +45,17 @@
  <h1>My Top Projects</h1> 
 
 ## 📈 Progress Projects  
-- [**Dashboard**](https://github.com/NN-Bayat/Admin-Dashboard__3-20-25)  
+- [****]()  
 
 
 ## ⚛️💨 React & Tailwind Projects  
 - [**BrainWave**](https://github.com/NN-Bayat/BrainWave__2-26-25)
-- [**React-Porfolio**](https://github.com/NN-Bayat/React-Porfolio__2-24-25)
+- [**Zentry**](https://nn-bayat.github.io/Zentry__3-3-25/)
 
 ## 🎨 HTML, CSS & JS Projects  
-- [Project Name](URL)  
-- [Project Name](URL)  
+- [**Solar System Info**](https://nn-bayat.github.io/Solar-System-info__2-3-25/)  
+- [**Sue Portfolio**](https://nn-bayat.github.io/Sue-portfolio__1-22-2025/)  
+- [**E-Commerce**](https://nn-bayat.github.io/shopping-cart__1-16-2025/)  
 
  <div>
  <br>
