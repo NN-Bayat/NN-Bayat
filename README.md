@@ -13,63 +13,69 @@
 
 ## 🚀 My Top Projects
 
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Project</th>
-    <th>  Live Preview  </th>
-  </tr>
-  <tr>
-    <td><strong>📈 Progress Projects</strong></td>
-    <td><em>Coming Soon</em></td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td rowspan="2"><strong>⚛️💨 React & Tailwind</strong></td>
-    <td><a href="https://github.com/NN-Bayat/BrainWave__2-26-25"><strong>BrainWave</strong></a></td>
-    <td><a href="https://github.com/NN-Bayat/BrainWave__2-26-25">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://nn-bayat.github.io/Zentry__3-3-25/"><strong>Zentry</strong></a></td>
-    <td><a href="https://nn-bayat.github.io/Zentry__3-3-25/">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td rowspan="3"><strong>🎨 HTML, CSS & JS </strong></td>
-    <td><a href="https://nn-bayat.github.io/Solar-System-info__2-3-25/"><strong>Solar System Info</strong></a></td>
-    <td><a href="https://nn-bayat.github.io/Solar-System-info__2-3-25/">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://nn-bayat.github.io/Sue-portfolio__1-22-2025/"><strong>Sue Portfolio</strong></a></td>
-    <td><a href="https://nn-bayat.github.io/Sue-portfolio__1-22-2025/">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://nn-bayat.github.io/shopping-cart__1-16-2025/"><strong>E-Commerce</strong></a></td>
-    <td><a href="https://nn-bayat.github.io/shopping-cart__1-16-2025/">Live Demo</a></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap; gap: 1rem;">
+  <!-- Left: Table -->
+  <div style="flex: 1 1 60%;">
+    <table border="1" cellspacing="0" cellpadding="8">
+      <tr>
+        <th>Category</th>
+        <th>Project</th>
+        <th>Live Preview</th>
+      </tr>
+      <tr>
+        <td><strong>📈 Progress Projects</strong></td>
+        <td><a href="https://github.com/NN-Bayat/Apple-Products-Store"><strong>Apple Products</strong></a></td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td rowspan="2"><strong>⚛️💨 React & Tailwind</strong></td>
+        <td><a href="https://github.com/NN-Bayat/BrainWave__2-26-25"><strong>BrainWave</strong></a></td>
+        <td><a href="https://github.com/NN-Bayat/BrainWave__2-26-25">Live Demo</a></td>
+      </tr>
+      <tr>
+        <td><a href="https://nn-bayat.github.io/Zentry__3-3-25/"><strong>Zentry</strong></a></td>
+        <td><a href="https://nn-bayat.github.io/Zentry__3-3-25/">Live Demo</a></td>
+      </tr>
+      <tr>
+        <td rowspan="3"><strong>🎨 HTML, CSS & JS </strong></td>
+        <td><a href="https://nn-bayat.github.io/Solar-System-info__2-3-25/"><strong>Solar System Info</strong></a></td>
+        <td><a href="https://nn-bayat.github.io/Solar-System-info__2-3-25/">Live Demo</a></td>
+      </tr>
+      <tr>
+        <td><a href="https://nn-bayat.github.io/Sue-portfolio__1-22-2025/"><strong>Sue Portfolio</strong></a></td>
+        <td><a href="https://nn-bayat.github.io/Sue-portfolio__1-22-2025/">Live Demo</a></td>
+      </tr>
+      <tr>
+        <td><a href="https://nn-bayat.github.io/shopping-cart__1-16-2025/"><strong>E-Commerce</strong></a></td>
+        <td><a href="https://nn-bayat.github.io/shopping-cart__1-16-2025/">Live Demo</a></td>
+      </tr>
+    </table>
+  </div>
 
+  <!-- Right: Skill Icons -->
+  <div style="flex: 1 1 35%; text-align: right;">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" style="margin: 8px;" />
+    <img src="https://cdn.simpleicons.org/greensock/88CE02" height="40" alt="gsap logo" style="margin: 8px;" />
+    <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" style="margin: 8px;" />
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" style="margin: 8px;" />
+    <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" style="margin: 8px;" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" style="margin: 8px;" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" style="margin: 8px;" />
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" style="margin: 8px;" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" style="margin: 8px;" />
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" style="margin: 8px;" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" style="margin: 8px;" />
+    <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo" style="margin: 8px;" />
+    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" style="margin: 8px;" />
+  </div>
+</div>
+  
 ---
 
 
 <table style="border: none;">
   <tr style="border: none;">
-  
-  <caption style="border: none;" align="center">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
-    <img src="https://cdn.simpleicons.org/greensock/88CE02" height="40" alt="gsap logo" />
-    <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" />
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
-    <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" /><br />
-    <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-    <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo" />
-    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" />
-  </caption>
-
   <tbody>
     <td style="border: none;">  
       <img width="400" height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NN-Bayat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
