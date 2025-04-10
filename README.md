@@ -6,8 +6,20 @@
 <p align="center">
   Hi, I’m Noorullah, a junior front-end developer passionate about clean and smart coding.<br> Outside of work,
   I enjoy hitting the gym and spending time with friends. Working towards becoming a Full Stack Developer.💻
-  
-</p><br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nn-bayat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:noorullahbayat1414@gmail.com?subject=I%20saw%20your%20GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://wa.me/93766712460?text=I%20saw%20your%20GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+</p>
+
+</p>
 
 ---
 
