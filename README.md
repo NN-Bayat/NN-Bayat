@@ -1,10 +1,13 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there%2C+It+Is+Noorullah;Available+for+hiring;Focusing+on+JavaScript+and+React" />
-</p><br>
+</p>
+
 <p align="center">
-  Hi, I’m Noorullah, a junior front-end developer passionate about clean and smart coding.<br> Outside of work,
-  I enjoy hitting the gym and spending time with friends. Working towards becoming a Full Stack Developer.💻
+  Hi, I’m Noorullah, a junior front-end developer passionate about clean and smart coding.<br>
+  Outside of work, I enjoy hitting the gym and spending time with friends.<br>
+  Working towards becoming a Full Stack Developer. 💻
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nn-bayat/" target="_blank">
@@ -13,8 +16,6 @@
   <a href="https://wa.me/93766712460?text=Hey%2C%20I%20saw%20your%20GitHub" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-</p>
-
 </p>
 
 ---
