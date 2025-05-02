@@ -57,7 +57,7 @@
         <td><a href="https://nn-bayat.github.io/shopping-cart__1-16-2025/"><strong>E-Commerce</strong></a></td>
         <td><a href="https://nn-bayat.github.io/shopping-cart__1-16-2025/">Live Demo</a></td>
       </tr>
-      <img align="right" width="40%" height="40%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Description">
+      <img align="right" width="40%" height="35%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Description">
     </table>
   </div>
 </div>
